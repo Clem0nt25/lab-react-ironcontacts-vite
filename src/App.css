@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+td {
+  width: 30% !important;
+  height: 30% !important;
+}
+
+td > img {
+  width: 100px;
+}
